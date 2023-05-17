@@ -74,7 +74,7 @@ function screenLoader() {
         // webPreferences: {
         //   nodeIntegration: true,
         // },
-        icon: path.join(__dirname, "assets/img/icons/logo.png"),
+        icon: path.join(__dirname, "assets/img/icons/logolage.png"),
     });
     win.on("close", function () {
         win = null;
@@ -98,7 +98,7 @@ function createWindow() {
         webPreferences: {
             nodeIntegration: true,
         },
-        icon: path.join(__dirname, "assets/img/icons/logo.png"),
+        icon: path.join(__dirname, "assets/img/icons/logolage.png"),
     });
     mainWindow.loadURL(url.format({
         pathname: path.join(__dirname, app_files),

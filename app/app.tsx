@@ -503,7 +503,7 @@ const Accapp = (props) => {
               <div>
                 <img
                   style={{ width: 30, marginTop: -2, marginRight: 10 }}
-                  src={"./assets/icons/logo.png"}
+                  src={"./assets/icons/logolage.png"}
                 />
               </div>
               <div>

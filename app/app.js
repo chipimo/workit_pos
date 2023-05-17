@@ -424,7 +424,7 @@ var Accapp = function (props) {
                     } },
                     React.createElement("div", { style: { display: "flex", marginTop: 10 } },
                         React.createElement("div", null,
-                            React.createElement("img", { style: { width: 30, marginTop: -2, marginRight: 10 }, src: "./assets/icons/logo.png" })),
+                            React.createElement("img", { style: { width: 30, marginTop: -2, marginRight: 10 }, src: "./assets/icons/logolage.png" })),
                         React.createElement("div", null,
                             React.createElement(core_1.Typography, { variant: "h6", style: { color: "#AAAAAA", marginTop: 0 }, color: "inherit" }, "Workit POS"))),
                     React.createElement("div", { style: { marginRight: 26, display: "flex" } },
